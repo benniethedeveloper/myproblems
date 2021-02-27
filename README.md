@@ -1,4 +1,5 @@
 # myproblems
+# even or odd number
 num = int(input("Enter a number"))
 mod = num % 2
 if mod == 0:
